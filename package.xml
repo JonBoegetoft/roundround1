@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>roundround_pkg</name>
+  <version>0.0.0</version>
+  <description>The roundround_pkg package</description>
+
+  <maintainer email="Jbaget19@student.aau.dk">Jon Bøgetoft</maintainer>
+
+  <license>MIT</license>
+
+  <author email="Jbaget19@student.aau.dk">Jon Bøgetoft</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+
+  <export>
+   
+  </export>
+</package>
